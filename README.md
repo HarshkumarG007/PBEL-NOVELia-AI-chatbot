@@ -67,27 +67,7 @@ cd PBEL-NOVELia-AI-chatbot
 The chatbot is powered by Watsonx Assistant with a customized dialog flow structure:
 
 
-📁 NOVELia Dialog Skill
- ├─ 👋 Welcome & Greeting (#greeting)
- │   └─ 🧠 Emotion Recognition (#EmotionRecognition)
- │       └─ 🎭 Emotional State Handlers
- │           ├─ 😢 Sad (#Sad)
- │           ├─ 😰 Anxious (#Anxious)
- │           ├─ 😠 Angry (#Angry)
- │           ├─ 😕 Confused (#Confused)
- │           ├─ 😐 Neutral (#Neutral)
- │           ├─ 😊 Happy (#Happy)
- │           └─ 😍 Nostalgic / Surprise
- │               ↓
- ├─ 🎯 Mood To Genre Mapper
- │   ↓
- ├─ 📌 Genre Preference Matcher (@Genre)
- │   ↓
- ├─ 📖 Book Recommender
- │   └─ 🔁 Another Recommendation Handler (#Another_recommendation)
- ├─ 🙋‍♂️ Clarification Handler (#Clarification)
- ├─ 🙏 Feedback Handler (#Thanks)
- └─ 🚫 Fallback Handler (Anything Else)
+<img width="896" height="766" alt="image" src="https://github.com/user-attachments/assets/2352a0b8-1cd9-4817-af5f-b41cc3e2fe44" />
 
 
 📸 **Screenshots **
