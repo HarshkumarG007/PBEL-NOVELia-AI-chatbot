@@ -67,7 +67,7 @@ cd PBEL-NOVELia-AI-chatbot
 The chatbot is powered by Watsonx Assistant with a customized dialog flow structure:
 
 
-📁 NOVELia Dialog Flow
+📁 NOVELia Dialog Skill
  ├─ 👋 Welcome & Greeting (#greeting)
  │   └─ 🧠 Emotion Recognition (#EmotionRecognition)
  │       └─ 🎭 Emotional State Handlers
@@ -77,7 +77,7 @@ The chatbot is powered by Watsonx Assistant with a customized dialog flow struct
  │           ├─ 😕 Confused (#Confused)
  │           ├─ 😐 Neutral (#Neutral)
  │           ├─ 😊 Happy (#Happy)
- │           └─ 😍 Nostalgic/Other
+ │           └─ 😍 Nostalgic / Surprise
  │               ↓
  ├─ 🎯 Mood To Genre Mapper
  │   ↓
